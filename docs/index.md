@@ -21,7 +21,6 @@ Syntax highlighted code block
 1. Numbered
 2. List
 3. Images
-4. ![](https://github.com/estradajl/webPageImage/blob/main/Images/mural.png)
 
 **Bold** and _Italic_ and `Code` text
 
@@ -31,6 +30,7 @@ Syntax highlighted code block
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
+[image](https://github.com/estradajl/webPageImage/blob/main/Images/mural.png)
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/estradajl/webPageImage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
