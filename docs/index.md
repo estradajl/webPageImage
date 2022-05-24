@@ -20,6 +20,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. Images
+4. <a href="https://github.com/estradajl/webPageImage/blob/main/Images/mural.png">Image Mural!</a>
 
 **Bold** and _Italic_ and `Code` text
 
